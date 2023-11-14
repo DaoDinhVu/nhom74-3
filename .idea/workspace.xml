@@ -10,10 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09ec114-7ba2-444d-83fb-1b06822d1ca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product-list-pages/page-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product-list-pages/page-3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/my-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/my-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/product-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/wishlist.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Coding Files/Git - Clones/nhom74-3/src/main/webapp/product-list-pages",
+    "last_opened_file_path": "E:/Coding Files/Git - Clones/nhom74-3",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -168,6 +175,7 @@
       <workItem from="1699530282699" duration="487000" />
       <workItem from="1699530780103" duration="49000" />
       <workItem from="1699531022500" duration="3208000" />
+      <workItem from="1699966212991" duration="4516000" />
     </task>
     <servers />
   </component>
