@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b477a0-5a52-498b-8e41-0e073bbcad22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/my-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/my-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/wishlist.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
