@@ -9,100 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c09ec114-7ba2-444d-83fb-1b06822d1ca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/READ-ME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ecommerce-html-template.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/brand-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/category-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/godaddy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/norton.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/payment-method.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/review-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/review-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/review-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/slider-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/slider-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/slider-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/ssl.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/easing/easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/easing/easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lib/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/my-account.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/wishlist.html" afterDir="false" />
-    </list>
+    <list default="true" id="c09ec114-7ba2-444d-83fb-1b06822d1ca2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/code truong/BaiTap-main/BaiTap-main/tesstlogin",
+    "last_opened_file_path": "E:/School Files/HK5/Web Programming - Personal/lab-4",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -152,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Coding Files\Git - Clones\nhom74-3\src\main\webapp\product-list-pages" />
       <recent name="E:\Code trường\nhom74-3\src\main\webapp" />
     </key>
   </component>
@@ -161,7 +69,7 @@
       <deployment>
         <artifact name="nhom74-3:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/nhom74_3" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -255,6 +163,8 @@
       <workItem from="1699530282699" duration="487000" />
       <workItem from="1699530780103" duration="49000" />
       <workItem from="1699531022500" duration="3208000" />
+      <workItem from="1699966212991" duration="5840000" />
+      <workItem from="1700032198702" duration="5879000" />
     </task>
     <servers />
   </component>
