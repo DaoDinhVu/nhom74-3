@@ -11,7 +11,8 @@
     <link href="img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap"
+          rel="stylesheet">
 
     <!-- CSS Libraries -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
@@ -24,22 +25,7 @@
 </head>
 
 <body>
-<!-- Top bar Start -->
-<div class="top-bar">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-6">
-                <i class="fa fa-envelope"></i>
-                support@email.com
-            </div>
-            <div class="col-sm-6">
-                <i class="fa fa-phone-alt"></i>
-                +012-345-6789
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Top bar End -->
+
 
 <!-- Nav Bar Start -->
 <div class="nav">
@@ -54,25 +40,17 @@
                 <div class="navbar-nav mr-auto">
                     <a href="index.html" class="nav-item nav-link active">Trang Chủ</a>
                     <a href="product-list.html" class="nav-item nav-link">Sản Phẩm</a>
-                    <!--                            <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>-->
+                    <!-- <a href="product-detail.html" class="nav-item nav-link">Product Detail</a> -->
                     <a href="cart.html" class="nav-item nav-link">Giỏ Hàng</a>
-                    <a href="checkout.html" class="nav-item nav-link">Thanh Toán</a>
-                    <a href="my-account.html" class="nav-item nav-link">Tài Khoản</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Thêm</a>
-                        <div class="dropdown-menu">
-                            <a href="wishlist.html" class="dropdown-item">Yêu Thích</a>
-                            <a href="login.html" class="dropdown-item">Đăng Ký & Đăng Nhập</a>
-                            <a href="contact.html" class="dropdown-item">Liên Hệ</a>
-                        </div>
-                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Liên Hệ</a>
                 </div>
                 <div class="navbar-nav ml-auto">
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
+                        <a href="login.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
                         <div class="dropdown-menu">
-                            <a href="#" class="dropdown-item">Đăng nhập</a>
-                            <a href="#" class="dropdown-item">Đăng ký</a>
+                            <a href="my-account.html" class="dropdown-item">Thông tin tài khoản</a>
+                            <a href="login.html" class="dropdown-item">Đăng nhập & Đăng ký</a>
+                            <a href="logout.html" class="dropdown-item">Đăng xuất</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +73,7 @@
             </div>
             <div class="col-md-6">
                 <div class="search">
-                    <input type="text" placeholder="Search">
+                    <input type="text" placeholder="Tìm Kiếm">
                     <button><i class="fa fa-search"></i></button>
                 </div>
             </div>
@@ -120,8 +98,8 @@
 <div class="breadcrumb-wrap">
     <div class="container-fluid">
         <ul class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item"><a href="#">Products</a></li>
+            <li class="breadcrumb-item"><a href="index.html">Trang Chủ</a></li>
+            <li class="breadcrumb-item"><a href="product-list.html">Sản Phẩm</a></li>
             <li class="breadcrumb-item active">My Account</li>
         </ul>
     </div>
@@ -134,20 +112,30 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="nav flex-column nav-pills" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active" id="dashboard-nav" data-toggle="pill" href="#dashboard-tab" role="tab"><i class="fa fa-tachometer-alt"></i>Dashboard</a>
-                    <a class="nav-link" id="orders-nav" data-toggle="pill" href="#orders-tab" role="tab"><i class="fa fa-shopping-bag"></i>Orders</a>
-                    <a class="nav-link" id="payment-nav" data-toggle="pill" href="#payment-tab" role="tab"><i class="fa fa-credit-card"></i>Payment Method</a>
-                    <a class="nav-link" id="address-nav" data-toggle="pill" href="#address-tab" role="tab"><i class="fa fa-map-marker-alt"></i>address</a>
-                    <a class="nav-link" id="account-nav" data-toggle="pill" href="#account-tab" role="tab"><i class="fa fa-user"></i>Account Details</a>
-                    <a class="nav-link" href="index.html"><i class="fa fa-sign-out-alt"></i>Logout</a>
+                    <a class="nav-link active" id="dashboard-nav" data-toggle="pill" href="#dashboard-tab" role="tab"><i
+                            class="fa fa-tachometer-alt"></i>Dashboard</a>
+                    <a class="nav-link" id="orders-nav" data-toggle="pill" href="#orders-tab" role="tab"><i
+                            class="fa fa-shopping-bag"></i>Lích Sử Đặt Hàng</a>
+                    <a class="nav-link" id="payment-nav" data-toggle="pill" href="#payment-tab" role="tab"><i
+                            class="fa fa-credit-card"></i>Phương Thức Thanh Toán</a>
+                    <a class="nav-link" id="address-nav" data-toggle="pill" href="#address-tab" role="tab"><i
+                            class="fa fa-map-marker-alt"></i>Địa Chỉ</a>
+                    <a class="nav-link" id="account-nav" data-toggle="pill" href="#account-tab" role="tab"><i
+                            class="fa fa-user"></i>Thông Tin Cá Nhân</a>
+                    <a class="nav-link" href="index.html"><i class="fa fa-sign-out-alt"></i>Đăng Xuất</a>
                 </div>
             </div>
             <div class="col-md-9">
                 <div class="tab-content">
-                    <div class="tab-pane fade show active" id="dashboard-tab" role="tabpanel" aria-labelledby="dashboard-nav">
+                    <div class="tab-pane fade show active" id="dashboard-tab" role="tabpanel"
+                         aria-labelledby="dashboard-nav">
                         <h4>Dashboard</h4>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra
+                            dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit
+                            finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in
+                            faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu
+                            rhoncus scelerisque.
                         </p>
                     </div>
                     <div class="tab-pane fade" id="orders-tab" role="tabpanel" aria-labelledby="orders-nav">
@@ -170,7 +158,9 @@
                                     <td>01 Jan 2020</td>
                                     <td>$99</td>
                                     <td>Approved</td>
-                                    <td><button class="btn">View</button></td>
+                                    <td>
+                                        <button class="btn">View</button>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
@@ -178,7 +168,9 @@
                                     <td>01 Jan 2020</td>
                                     <td>$99</td>
                                     <td>Approved</td>
-                                    <td><button class="btn">View</button></td>
+                                    <td>
+                                        <button class="btn">View</button>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
@@ -186,7 +178,9 @@
                                     <td>01 Jan 2020</td>
                                     <td>$99</td>
                                     <td>Approved</td>
-                                    <td><button class="btn">View</button></td>
+                                    <td>
+                                        <button class="btn">View</button>
+                                    </td>
                                 </tr>
                                 </tbody>
                             </table>
@@ -195,7 +189,11 @@
                     <div class="tab-pane fade" id="payment-tab" role="tabpanel" aria-labelledby="payment-nav">
                         <h4>Payment Method</h4>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra
+                            dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit
+                            finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in
+                            faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu
+                            rhoncus scelerisque.
                         </p>
                     </div>
                     <div class="tab-pane fade" id="address-tab" role="tabpanel" aria-labelledby="address-nav">
@@ -318,15 +316,15 @@
             <div class="col-md-6">
                 <div class="payment-method">
                     <h2>We Accept:</h2>
-                    <img src="img/payment-method.png" alt="Payment Method" />
+                    <img src="img/payment-method.png" alt="Payment Method"/>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-security">
                     <h2>Secured By:</h2>
-                    <img src="img/godaddy.svg" alt="Payment Security" />
-                    <img src="img/norton.svg" alt="Payment Security" />
-                    <img src="img/ssl.svg" alt="Payment Security" />
+                    <img src="img/godaddy.svg" alt="Payment Security"/>
+                    <img src="img/norton.svg" alt="Payment Security"/>
+                    <img src="img/ssl.svg" alt="Payment Security"/>
                 </div>
             </div>
         </div>

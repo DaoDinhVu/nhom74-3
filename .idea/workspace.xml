@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="" />
+    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/my-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/my-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/wishlist.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +24,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YGHivBYDnTn5CbQ1kLAeJeo7qt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/code truong/nhom74-3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/code truong/nhom74-3&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

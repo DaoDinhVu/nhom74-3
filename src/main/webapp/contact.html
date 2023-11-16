@@ -11,7 +11,8 @@
     <link href="img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap"
+          rel="stylesheet">
 
     <!-- CSS Libraries -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
@@ -24,22 +25,7 @@
 </head>
 
 <body>
-<!-- Top bar Start -->
-<div class="top-bar">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-6">
-                <i class="fa fa-envelope"></i>
-                support@email.com
-            </div>
-            <div class="col-sm-6">
-                <i class="fa fa-phone-alt"></i>
-                +012-345-6789
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Top bar End -->
+
 
 <!-- Nav Bar Start -->
 <div class="nav">
@@ -54,25 +40,17 @@
                 <div class="navbar-nav mr-auto">
                     <a href="index.html" class="nav-item nav-link active">Trang Chủ</a>
                     <a href="product-list.html" class="nav-item nav-link">Sản Phẩm</a>
-                    <!--                            <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>-->
+                    <!-- <a href="product-detail.html" class="nav-item nav-link">Product Detail</a> -->
                     <a href="cart.html" class="nav-item nav-link">Giỏ Hàng</a>
-                    <a href="checkout.html" class="nav-item nav-link">Thanh Toán</a>
-                    <a href="my-account.html" class="nav-item nav-link">Tài Khoản</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Thêm</a>
-                        <div class="dropdown-menu">
-                            <a href="wishlist.html" class="dropdown-item">Yêu Thích</a>
-                            <a href="login.html" class="dropdown-item">Đăng Ký & Đăng Nhập</a>
-                            <a href="contact.html" class="dropdown-item">Liên Hệ</a>
-                        </div>
-                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Liên Hệ</a>
                 </div>
                 <div class="navbar-nav ml-auto">
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
+                        <a href="login.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
                         <div class="dropdown-menu">
-                            <a href="#" class="dropdown-item">Đăng nhập</a>
-                            <a href="#" class="dropdown-item">Đăng ký</a>
+                            <a href="my-account.html" class="dropdown-item">Thông tin tài khoản</a>
+                            <a href="login.html" class="dropdown-item">Đăng nhập & Đăng ký</a>
+                            <a href="logout.html" class="dropdown-item">Đăng xuất</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +73,7 @@
             </div>
             <div class="col-md-6">
                 <div class="search">
-                    <input type="text" placeholder="Search">
+                    <input type="text" placeholder="Tìm Kiếm">
                     <button><i class="fa fa-search"></i></button>
                 </div>
             </div>
@@ -120,8 +98,8 @@
 <div class="breadcrumb-wrap">
     <div class="container-fluid">
         <ul class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item"><a href="#">Products</a></li>
+            <li class="breadcrumb-item"><a href="index.html">Trang Chủ</a></li>
+            <li class="breadcrumb-item"><a href="product-list.html">Sản Phẩm</a></li>
             <li class="breadcrumb-item active">Contact</li>
         </ul>
     </div>
@@ -167,25 +145,29 @@
                     <form>
                         <div class="row">
                             <div class="col-md-6">
-                                <input type="text" class="form-control" placeholder="Your Name" />
+                                <input type="text" class="form-control" placeholder="Your Name"/>
                             </div>
                             <div class="col-md-6">
-                                <input type="email" class="form-control" placeholder="Your Email" />
+                                <input type="email" class="form-control" placeholder="Your Email"/>
                             </div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Subject" />
+                            <input type="text" class="form-control" placeholder="Subject"/>
                         </div>
                         <div class="form-group">
                             <textarea class="form-control" rows="5" placeholder="Message"></textarea>
                         </div>
-                        <div><button class="btn" type="submit">Send Message</button></div>
+                        <div>
+                            <button class="btn" type="submit">Send Message</button>
+                        </div>
                     </form>
                 </div>
             </div>
             <div class="col-lg-12">
                 <div class="contact-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.733248043701!2d-118.24532098539802!3d34.05071312525937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648fa1d4803%3A0xdec27bf11f9fd336!2s123%20S%20Los%20Angeles%20St%2C%20Los%20Angeles%2C%20CA%2090012%2C%20USA!5e0!3m2!1sen!2sbd!4v1585634930544!5m2!1sen!2sbd" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.733248043701!2d-118.24532098539802!3d34.05071312525937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648fa1d4803%3A0xdec27bf11f9fd336!2s123%20S%20Los%20Angeles%20St%2C%20Los%20Angeles%2C%20CA%2090012%2C%20USA!5e0!3m2!1sen!2sbd!4v1585634930544!5m2!1sen!2sbd"
+                            frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                            tabindex="0"></iframe>
                 </div>
             </div>
         </div>
@@ -250,15 +232,15 @@
             <div class="col-md-6">
                 <div class="payment-method">
                     <h2>We Accept:</h2>
-                    <img src="img/payment-method.png" alt="Payment Method" />
+                    <img src="img/payment-method.png" alt="Payment Method"/>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-security">
                     <h2>Secured By:</h2>
-                    <img src="img/godaddy.svg" alt="Payment Security" />
-                    <img src="img/norton.svg" alt="Payment Security" />
-                    <img src="img/ssl.svg" alt="Payment Security" />
+                    <img src="img/godaddy.svg" alt="Payment Security"/>
+                    <img src="img/norton.svg" alt="Payment Security"/>
+                    <img src="img/ssl.svg" alt="Payment Security"/>
                 </div>
             </div>
         </div>

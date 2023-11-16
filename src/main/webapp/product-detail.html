@@ -11,7 +11,8 @@
     <link href="img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap"
+          rel="stylesheet">
 
     <!-- CSS Libraries -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
@@ -24,22 +25,7 @@
 </head>
 
 <body>
-<!-- Top bar Start -->
-<div class="top-bar">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-6">
-                <i class="fa fa-envelope"></i>
-                support@email.com
-            </div>
-            <div class="col-sm-6">
-                <i class="fa fa-phone-alt"></i>
-                +012-345-6789
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Top bar End -->
+
 
 <!-- Nav Bar Start -->
 <div class="nav">
@@ -54,25 +40,17 @@
                 <div class="navbar-nav mr-auto">
                     <a href="index.html" class="nav-item nav-link active">Trang Chủ</a>
                     <a href="product-list.html" class="nav-item nav-link">Sản Phẩm</a>
-                    <!--                            <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>-->
+                    <!-- <a href="product-detail.html" class="nav-item nav-link">Product Detail</a> -->
                     <a href="cart.html" class="nav-item nav-link">Giỏ Hàng</a>
-                    <a href="checkout.html" class="nav-item nav-link">Thanh Toán</a>
-                    <a href="my-account.html" class="nav-item nav-link">Tài Khoản</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Thêm</a>
-                        <div class="dropdown-menu">
-                            <a href="wishlist.html" class="dropdown-item">Yêu Thích</a>
-                            <a href="login.html" class="dropdown-item">Đăng Ký & Đăng Nhập</a>
-                            <a href="contact.html" class="dropdown-item">Liên Hệ</a>
-                        </div>
-                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Liên Hệ</a>
                 </div>
                 <div class="navbar-nav ml-auto">
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
+                        <a href="login.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài Khoản</a>
                         <div class="dropdown-menu">
-                            <a href="#" class="dropdown-item">Đăng nhập</a>
-                            <a href="#" class="dropdown-item">Đăng ký</a>
+                            <a href="my-account.html" class="dropdown-item">Thông tin tài khoản</a>
+                            <a href="login.html" class="dropdown-item">Đăng nhập & Đăng ký</a>
+                            <a href="logout.html" class="dropdown-item">Đăng xuất</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +73,7 @@
             </div>
             <div class="col-md-6">
                 <div class="search">
-                    <input type="text" placeholder="Search">
+                    <input type="text" placeholder="Tìm Kiếm">
                     <button><i class="fa fa-search"></i></button>
                 </div>
             </div>
@@ -120,8 +98,8 @@
 <div class="breadcrumb-wrap">
     <div class="container-fluid">
         <ul class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item"><a href="#">Products</a></li>
+            <li class="breadcrumb-item"><a href="index.html">Trang Chủ</a></li>
+            <li class="breadcrumb-item"><a href="product-list.html">Sản Phẩm</a></li>
             <li class="breadcrumb-item active">Product Detail</li>
         </ul>
     </div>
@@ -219,7 +197,15 @@
                             <div id="description" class="container tab-pane active">
                                 <h4>Product description</h4>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros. Aliquam et sapien eget arcu rhoncus scelerisque. Suspendisse sit amet neque neque. Praesent suscipit et magna eu iaculis. Donec arcu libero, commodo ac est a, malesuada finibus dolor. Aenean in ex eu velit semper fermentum. In leo dui, aliquet sit amet eleifend sit amet, varius in turpis. Maecenas fermentum ut ligula at consectetur. Nullam et tortor leo.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum quam ac mi
+                                    viverra dictum. In efficitur ipsum diam, at dignissim lorem tempor in. Vivamus
+                                    tempor hendrerit finibus. Nulla tristique viverra nisl, sit amet bibendum ante
+                                    suscipit non. Praesent in faucibus tellus, sed gravida lacus. Vivamus eu diam eros.
+                                    Aliquam et sapien eget arcu rhoncus scelerisque. Suspendisse sit amet neque neque.
+                                    Praesent suscipit et magna eu iaculis. Donec arcu libero, commodo ac est a,
+                                    malesuada finibus dolor. Aenean in ex eu velit semper fermentum. In leo dui, aliquet
+                                    sit amet eleifend sit amet, varius in turpis. Maecenas fermentum ut ligula at
+                                    consectetur. Nullam et tortor leo.
                                 </p>
                             </div>
                             <div id="specification" class="container tab-pane fade">
@@ -243,7 +229,8 @@
                                         <i class="fa fa-star"></i>
                                     </div>
                                     <p>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                                        doloremque laudantium, totam rem aperiam.
                                     </p>
                                 </div>
                                 <div class="reviews-submit">
@@ -444,7 +431,8 @@
                                 <a class="nav-link" href="#"><i class="fa fa-mobile-alt"></i>Gadgets & Accessories</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-microchip"></i>Electronics & Accessories</a>
+                                <a class="nav-link" href="#"><i class="fa fa-microchip"></i>Electronics &
+                                    Accessories</a>
                             </li>
                         </ul>
                     </nav>
