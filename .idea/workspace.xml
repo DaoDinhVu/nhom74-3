@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interface/admin-productManager-addProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/admin-productManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/admin-signin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/css/bootstrap-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/css/fonts/bootstrap-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/css/fonts/bootstrap-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/200px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/50px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/570px-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/570px-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/570px-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/img/80px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +69,7 @@
       <updated>1700145130242</updated>
       <workItem from="1700145132418" duration="736000" />
       <workItem from="1701142323362" duration="78000" />
-      <workItem from="1701142438076" duration="288000" />
+      <workItem from="1701142438076" duration="995000" />
     </task>
     <servers />
   </component>
