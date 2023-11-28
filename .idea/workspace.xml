@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/my-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/my-account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/wishlist.html" afterDir="false" />
-    </list>
+    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700145130242</updated>
       <workItem from="1700145132418" duration="736000" />
+      <workItem from="1701142323362" duration="78000" />
     </task>
     <servers />
   </component>
