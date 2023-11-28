@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/beans/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/beans/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dto/CartItemResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,7 +77,7 @@
       <workItem from="1700145132418" duration="736000" />
       <workItem from="1701142323362" duration="78000" />
       <workItem from="1701142438076" duration="1310000" />
-      <workItem from="1701154096807" duration="942000" />
+      <workItem from="1701154096807" duration="1289000" />
     </task>
     <servers />
   </component>
@@ -93,5 +94,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
