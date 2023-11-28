@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/READ-ME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/ecommerce-html-template.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/my-account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/wishlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/beans/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/beans/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +46,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/nhom74-3/src/main/java/org/example/beans",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/nhom74-3/src/main/java/org/example/dao",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -71,6 +56,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\nhom74-3\src\main\java\org\example\dao" />
       <recent name="C:\Users\Admin\Documents\GitHub\nhom74-3\interface\js" />
       <recent name="C:\Users\Admin\Documents\GitHub\nhom74-3\interface\img" />
       <recent name="C:\Users\Admin\Documents\GitHub\nhom74-3\interface\css" />
@@ -90,7 +76,7 @@
       <workItem from="1700145132418" duration="736000" />
       <workItem from="1701142323362" duration="78000" />
       <workItem from="1701142438076" duration="1310000" />
-      <workItem from="1701154096807" duration="532000" />
+      <workItem from="1701154096807" duration="942000" />
     </task>
     <servers />
   </component>
