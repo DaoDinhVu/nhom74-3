@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf55952e-0e6a-4986-99fa-7c2c8286b895" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dao/CategoryDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +54,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bookshopweb.dao" />
+      <recent name="com.bookshopweb.beans" />
       <recent name="com.bookshopweb.service" />
       <recent name="com.bookshopweb.utils" />
-      <recent name="com.bookshopweb.dao" />
     </key>
   </component>
   <component name="RunManager">
@@ -159,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702630788038</updated>
       <workItem from="1702630885887" duration="2450000" />
-      <workItem from="1702885673495" duration="742000" />
+      <workItem from="1702885673495" duration="871000" />
     </task>
     <servers />
   </component>
