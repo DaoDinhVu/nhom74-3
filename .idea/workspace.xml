@@ -17,15 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bookshopweb.dao" />
-      <recent name="com.bookshopweb.utils" />
       <recent name="com.bookshopweb.service" />
+      <recent name="com.bookshopweb.utils" />
+      <recent name="com.bookshopweb.dao" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702630788038</updated>
-      <workItem from="1702630885887" duration="2305000" />
+      <workItem from="1702630885887" duration="2450000" />
     </task>
     <servers />
   </component>
