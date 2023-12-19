@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="" />
+    <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dto/CartResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectId" id="2Zk7xg8vnqv8fiPUWcSOtRlipoo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -32,11 +36,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/School Files/HK5/Web Programming/BookShopWeb"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bookshopweb.dto" />
       <recent name="com.bookshopweb.beans" />
       <recent name="com.bookshopweb.dao" />
       <recent name="com.bookshopweb.utils" />
@@ -46,12 +54,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf55952e-0e6a-4986-99fa-7c2c8286b895" name="Changes" comment="" />
+      <changelist id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="" />
       <created>1702630788038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702630788038</updated>
       <workItem from="1702630885887" duration="1742000" />
+      <workItem from="1702954481680" duration="1242000" />
     </task>
     <servers />
   </component>
