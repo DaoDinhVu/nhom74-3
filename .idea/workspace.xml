@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/dto/CartResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/CartServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/School Files/HK5/Web Programming/BookShopWeb"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/School Files/HK5/Web Programming/BookShopWeb&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bookshopweb.servlet.client" />
+      <recent name="com.bookshopweb.service" />
       <recent name="com.bookshopweb.dto" />
       <recent name="com.bookshopweb.beans" />
       <recent name="com.bookshopweb.dao" />
-      <recent name="com.bookshopweb.utils" />
-      <recent name="com.bookshopweb.service" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1702630788038</updated>
       <workItem from="1702630885887" duration="1742000" />
-      <workItem from="1702954481680" duration="1242000" />
+      <workItem from="1702954481680" duration="1916000" />
+      <workItem from="1702978597837" duration="2250000" />
     </task>
     <servers />
   </component>
