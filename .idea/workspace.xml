@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="869e7364-16ea-4c0b-b413-0ccb297e94c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/service/CartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/CartServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/beans/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
       <workItem from="1702630885887" duration="1742000" />
       <workItem from="1702954481680" duration="1916000" />
       <workItem from="1702978597837" duration="2250000" />
+      <workItem from="1703233394455" duration="337000" />
     </task>
     <servers />
   </component>
