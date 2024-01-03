@@ -1,4 +1,4 @@
-package com.bookshopweb.servlet.client.category;
+package com.bookshopweb.servlet.admin.category;
 
 import com.bookshopweb.beans.Category;
 import com.bookshopweb.service.CategoryService;
