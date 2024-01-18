@@ -2,9 +2,9 @@ package com.bookshopweb.servlet.admin.user;
 
 import com.bookshopweb.beans.User;
 import com.bookshopweb.service.UserService;
-import com.bookshopweb.utils.HashingUtils;
 import com.bookshopweb.utils.Protector;
 import com.bookshopweb.utils.Validator;
+import com.bookshopweb.utils.HashingUtils;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
