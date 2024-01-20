@@ -9,14 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e43226-e763-4f9e-9e8b-7b83035f95be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/SearchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/SettingServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/general/ImageServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e2e43226-e763-4f9e-9e8b-7b83035f95be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,16 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;H:/Github_Nhom_74/nhom74-3/src/main/java/com/bookshopweb&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "H:/Github_Nhom_74/nhom74-3/src/main/webapp/WEB-INF"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Github_Nhom_74\nhom74-3\src\main\webapp\WEB-INF" />
       <recent name="H:\Github_Nhom_74\nhom74-3\src\main\java\com\bookshopweb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -64,6 +58,7 @@
       <recent name="H:\Github_Nhom_74\nhom74-3\src\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bookshopweb.servlet.client" />
       <recent name="com.bookshopweb.servlet.general" />
     </key>
   </component>
@@ -164,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702630788038</updated>
-      <workItem from="1705744879628" duration="623000" />
+      <workItem from="1705744879628" duration="753000" />
     </task>
     <servers />
   </component>
