@@ -9,7 +9,7 @@ public class Validator<T> {
     private final List<String> violations = new ArrayList<>();
 
     public static <T> Validator<T> of(T o) {
-        Validator<T> validator = new Validator<>();
+        Validator<T> validator = new com.bookshopweb.utils.Validator<T>();
         validator.o = o;
         return validator;
     }
