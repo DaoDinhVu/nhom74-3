@@ -17,7 +17,7 @@ public class OrderItem {
     @Nullable
     private LocalDateTime updatedAt;
     @Nullable
-
+    private Product product;
 
     public OrderItem() {}
 
@@ -104,5 +104,28 @@ public class OrderItem {
         this.updatedAt = updatedAt;
     }
 
+    @Nullable
+    @Nested("product")
+    public Product getProduct() {
+        return product;
+    }
 
+    public void setProduct(@Nullable Product product) {
+        this.product = product;
+    }
+
+    @Override
+    public String toString() {
+        return new StringJoiner(", ", OrderItem.class.getSimpleName() + "[", "]")
+                .add("id=" + id)
+                .add("orderId=" + orderId)
+                .add("productId=" + productId)
+                .add("price=" + price)
+                .add("discount=" + discount)
+                .add("quantity=" + quantity)
+                .add("createdAt=" + createdAt)
+                .add("updatedAt=" + updatedAt)
+                .add("product=" + product)
+                .toString();
+    }
 }

@@ -10,7 +10,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2e43226-e763-4f9e-9e8b-7b83035f95be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/init/DatabaseDesignBSW.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/DatabaseDesignBSW.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/bookshopdb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/gen_bookshopdb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/var-webapp-images.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/Admin401Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/AdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/SigninAdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/SignoutAdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/order/OrderManagerDetailServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/order/OrderManagerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/admin/order/UpdateOrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/ChangePasswordServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/OrderDetailServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/servlet/client/callback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/toast.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookshopweb/beans/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/beans/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookshopweb/utils/ConstantUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookshopweb/utils/ConstantUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/wishlistView.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +69,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;H:/Github_Nhom_74/nhom74-3/src/main/webapp/WEB-INF&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "H:/Github_Nhom_74/nhom74-3"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Github_Nhom_74\nhom74-3" />
+      <recent name="H:\Github_Nhom_74\nhom74-3\src\main\webapp\js" />
+      <recent name="H:\Github_Nhom_74\nhom74-3\src\main\webapp\css" />
+      <recent name="H:\Github_Nhom_74\nhom74-3\src\main\java\com\bookshopweb\servlet\admin" />
       <recent name="H:\Github_Nhom_74\nhom74-3\src\main\webapp\WEB-INF" />
-      <recent name="H:\Github_Nhom_74\nhom74-3\src\main\java\com\bookshopweb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Github_Nhom_74\nhom74-3\src" />
@@ -61,6 +91,7 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bookshopweb.servlet.client" />
+      <recent name="com.bookshopweb.servlet.client.productreivew" />
       <recent name="com.bookshopweb.servlet.general" />
     </key>
   </component>
@@ -164,6 +195,7 @@
       <workItem from="1705744879628" duration="753000" />
       <workItem from="1705745642369" duration="589000" />
       <workItem from="1705759855033" duration="68000" />
+      <workItem from="1705759959267" duration="796000" />
     </task>
     <servers />
   </component>
