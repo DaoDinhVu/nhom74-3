@@ -6,8 +6,8 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 
 public class Protector<R> {
-    private boolean returnObject;
-    private Exception exceptionObject;
+    private R returnObject;
+    private Throwable exceptionObject;
 
     // Nhận vào hàm có trả về giá trị: insert(t), getByXXX(t), getAll()
     public static <R> Protector<R> of(Supplier<R> f) {
